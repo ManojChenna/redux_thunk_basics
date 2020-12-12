@@ -4,5 +4,5 @@ import usersReducer from "./usersReducer";
 
 export default combineReducers({
   posts: postsReducer,
-  userd: usersReducer
+  users: usersReducer
 });
